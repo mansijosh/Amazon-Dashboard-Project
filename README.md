@@ -51,8 +51,14 @@ The Tooltip dashboard enhances the user experience by providing additional conte
 
 The Amazon Dashboard project offers a comprehensive and user-friendly interface for visualizing and analyzing data from Amazon's product catalog and sales performance. With its four main sections focusing on different aspects of the data, users can gain valuable insights and make informed decisions. Whether exploring overall trends, diving into specific product categories, or examining individual product performance, this dashboard provides the tools and functionality needed for effective data analysis and visualization.
 
-**Contributors:** [], [Contributor 2], [Contributor 3]
+## Contributors:
+- [Mansi Joshi](https://github.com/mansijosh)
+- [Apeksha Gangurde](https://github.com/apekshagangurde)
 
-**Images:** [Image sources or links]
+## Sreenshots
+![Visualization Screenshot](Overview.png)
+![Visualization Screenshot](Products.png)
+![Visualization Screenshot](ProductTooltip.png)
+![Visualization Screenshot](ProductView.png)
 
 **Note:** This README provides an overview of the project and its main components. For detailed instructions on how to set up and use the dashboard, please refer to the project documentation or user guide.
